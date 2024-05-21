@@ -1,4 +1,5 @@
-# Tiket Bioskop (Java)
+# Movie Ticketing App using Java
+
 
 Proyek pengembangan perangkat lunak berbasis Java yang bertujuan untuk menyediakan sebuah platform yang memungkinkan pengguna untuk melakukan pemesanan tiket bioskop secara online. Aplikasi ini dirancang untuk meningkatkan kenyamanan dan kemudahan bagi pengguna dalam memilih, memesan, dan membayar tiket bioskop.
 
